@@ -18,7 +18,7 @@
     - Plot a line chart with all the inertia values computed with the different values of k to visually identify the optimal value for k.
     - Answer the following question in your notebook: 
     
-    ## What is the best value for k? 4
+What is the best value for k? 4
  
 
 ## Cluster Cryptocurrencies with K-means Using the Scaled DataFrame
